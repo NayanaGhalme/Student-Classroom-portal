@@ -21,7 +21,7 @@ A Spring Boot-powered student management system that allows assignment submissio
 ## 🚀 Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/NayanaGhalme/student-classrrom-portal.git
+git clone https://github.com/NayanaGhalme/student-classroom-portal.git
 
 2.Navigate into the project:
 cd student-classroom-portal
